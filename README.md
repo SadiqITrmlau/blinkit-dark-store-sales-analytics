@@ -44,7 +44,7 @@ After analyzing the data, I found three main things:
 <div align="center">
   
   <!-- NOTE: Replace the link below with your actual dashboard image link or a GIF of you clicking the dashboard! -->
-  <img src="Blinkit_Dashboard.png" alt="Blinkit Power BI Dashboard" width="850"/>
+  <img src="blinkit_dashboard_page.jpg" alt="Blinkit Power BI Dashboard" width="850"/>
 
 </div>
 
