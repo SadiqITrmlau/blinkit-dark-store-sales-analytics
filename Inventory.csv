@@ -1,0 +1,251 @@
+SKU_ID,Store_ID,Category,Stock_Quantity,Daily_Sales_Velocity
+SKU001,Gurgaon_Sec43,Snacks,265,12
+SKU002,Gurgaon_Sec43,Personal Care,34,3
+SKU003,Gurgaon_Sec43,Fresh Vegetables,241,9
+SKU004,Gurgaon_Sec43,Electronics,338,32
+SKU005,Gurgaon_Sec43,Grocery,388,43
+SKU006,Gurgaon_Sec43,Personal Care,349,17
+SKU007,Gurgaon_Sec43,Grocery,381,40
+SKU008,Gurgaon_Sec43,Electronics,54,13
+SKU009,Gurgaon_Sec43,Grocery,260,20
+SKU010,Gurgaon_Sec43,Electronics,197,10
+SKU011,Gurgaon_Sec43,Personal Care,27,41
+SKU012,Gurgaon_Sec43,Grocery,111,23
+SKU013,Gurgaon_Sec43,Personal Care,454,11
+SKU014,Gurgaon_Sec43,Grocery,499,24
+SKU015,Gurgaon_Sec43,Snacks,341,3
+SKU016,Gurgaon_Sec43,Personal Care,110,38
+SKU017,Gurgaon_Sec43,Fresh Vegetables,433,43
+SKU018,Gurgaon_Sec43,Fresh Vegetables,222,16
+SKU019,Gurgaon_Sec43,Grocery,491,14
+SKU020,Gurgaon_Sec43,Grocery,264,33
+SKU021,Gurgaon_Sec43,Fresh Vegetables,330,32
+SKU022,Gurgaon_Sec43,Grocery,440,42
+SKU023,Gurgaon_Sec43,Snacks,412,17
+SKU024,Gurgaon_Sec43,Fresh Vegetables,382,39
+SKU025,Gurgaon_Sec43,Electronics,409,47
+SKU026,Gurgaon_Sec43,Snacks,61,10
+SKU027,Gurgaon_Sec43,Electronics,340,32
+SKU028,Gurgaon_Sec43,Personal Care,459,35
+SKU029,Gurgaon_Sec43,Grocery,442,45
+SKU030,Gurgaon_Sec43,Fresh Vegetables,106,13
+SKU031,Gurgaon_Sec43,Grocery,360,27
+SKU032,Gurgaon_Sec43,Grocery,432,13
+SKU033,Gurgaon_Sec43,Grocery,286,46
+SKU034,Gurgaon_Sec43,Personal Care,317,12
+SKU035,Gurgaon_Sec43,Electronics,216,16
+SKU036,Gurgaon_Sec43,Grocery,54,19
+SKU037,Gurgaon_Sec43,Grocery,449,11
+SKU038,Gurgaon_Sec43,Grocery,189,14
+SKU039,Gurgaon_Sec43,Grocery,270,1
+SKU040,Gurgaon_Sec43,Electronics,38,11
+SKU041,Gurgaon_Sec43,Snacks,441,27
+SKU042,Gurgaon_Sec43,Grocery,248,32
+SKU043,Gurgaon_Sec43,Personal Care,492,7
+SKU044,Gurgaon_Sec43,Fresh Vegetables,433,45
+SKU045,Gurgaon_Sec43,Personal Care,311,16
+SKU046,Gurgaon_Sec43,Fresh Vegetables,77,15
+SKU047,Gurgaon_Sec43,Electronics,489,24
+SKU048,Gurgaon_Sec43,Electronics,80,43
+SKU049,Gurgaon_Sec43,Fresh Vegetables,398,47
+SKU050,Gurgaon_Sec43,Fresh Vegetables,352,43
+SKU001,Noida_Sec63,Grocery,392,31
+SKU002,Noida_Sec63,Snacks,274,8
+SKU003,Noida_Sec63,Snacks,100,8
+SKU004,Noida_Sec63,Electronics,498,11
+SKU005,Noida_Sec63,Snacks,222,24
+SKU006,Noida_Sec63,Snacks,183,29
+SKU007,Noida_Sec63,Grocery,254,28
+SKU008,Noida_Sec63,Fresh Vegetables,44,45
+SKU009,Noida_Sec63,Electronics,461,8
+SKU010,Noida_Sec63,Snacks,121,21
+SKU011,Noida_Sec63,Grocery,357,9
+SKU012,Noida_Sec63,Grocery,155,12
+SKU013,Noida_Sec63,Grocery,474,2
+SKU014,Noida_Sec63,Snacks,343,8
+SKU015,Noida_Sec63,Grocery,446,17
+SKU016,Noida_Sec63,Grocery,33,48
+SKU017,Noida_Sec63,Snacks,500,19
+SKU018,Noida_Sec63,Electronics,182,33
+SKU019,Noida_Sec63,Fresh Vegetables,13,2
+SKU020,Noida_Sec63,Personal Care,140,49
+SKU021,Noida_Sec63,Grocery,364,9
+SKU022,Noida_Sec63,Electronics,139,23
+SKU023,Noida_Sec63,Grocery,202,7
+SKU024,Noida_Sec63,Personal Care,167,27
+SKU025,Noida_Sec63,Electronics,136,30
+SKU026,Noida_Sec63,Grocery,329,10
+SKU027,Noida_Sec63,Fresh Vegetables,391,33
+SKU028,Noida_Sec63,Snacks,321,34
+SKU029,Noida_Sec63,Fresh Vegetables,421,12
+SKU030,Noida_Sec63,Fresh Vegetables,96,49
+SKU031,Noida_Sec63,Fresh Vegetables,374,25
+SKU032,Noida_Sec63,Snacks,235,2
+SKU033,Noida_Sec63,Personal Care,292,37
+SKU034,Noida_Sec63,Electronics,114,20
+SKU035,Noida_Sec63,Fresh Vegetables,191,45
+SKU036,Noida_Sec63,Grocery,264,4
+SKU037,Noida_Sec63,Grocery,108,46
+SKU038,Noida_Sec63,Electronics,266,35
+SKU039,Noida_Sec63,Grocery,357,11
+SKU040,Noida_Sec63,Grocery,201,24
+SKU041,Noida_Sec63,Electronics,78,17
+SKU042,Noida_Sec63,Personal Care,305,40
+SKU043,Noida_Sec63,Fresh Vegetables,450,1
+SKU044,Noida_Sec63,Personal Care,251,8
+SKU045,Noida_Sec63,Fresh Vegetables,16,49
+SKU046,Noida_Sec63,Grocery,216,6
+SKU047,Noida_Sec63,Personal Care,277,2
+SKU048,Noida_Sec63,Electronics,404,49
+SKU049,Noida_Sec63,Grocery,63,45
+SKU050,Noida_Sec63,Fresh Vegetables,464,5
+SKU001,Delhi_Vasantkunj,Fresh Vegetables,207,8
+SKU002,Delhi_Vasantkunj,Grocery,312,43
+SKU003,Delhi_Vasantkunj,Grocery,227,45
+SKU004,Delhi_Vasantkunj,Grocery,34,46
+SKU005,Delhi_Vasantkunj,Fresh Vegetables,381,37
+SKU006,Delhi_Vasantkunj,Snacks,251,18
+SKU007,Delhi_Vasantkunj,Snacks,450,46
+SKU008,Delhi_Vasantkunj,Personal Care,250,29
+SKU009,Delhi_Vasantkunj,Personal Care,22,13
+SKU010,Delhi_Vasantkunj,Electronics,302,13
+SKU011,Delhi_Vasantkunj,Grocery,233,15
+SKU012,Delhi_Vasantkunj,Personal Care,120,45
+SKU013,Delhi_Vasantkunj,Electronics,288,16
+SKU014,Delhi_Vasantkunj,Electronics,195,29
+SKU015,Delhi_Vasantkunj,Electronics,305,2
+SKU016,Delhi_Vasantkunj,Personal Care,184,29
+SKU017,Delhi_Vasantkunj,Electronics,464,32
+SKU018,Delhi_Vasantkunj,Grocery,261,29
+SKU019,Delhi_Vasantkunj,Grocery,173,22
+SKU020,Delhi_Vasantkunj,Snacks,159,34
+SKU021,Delhi_Vasantkunj,Personal Care,363,25
+SKU022,Delhi_Vasantkunj,Electronics,130,10
+SKU023,Delhi_Vasantkunj,Fresh Vegetables,375,17
+SKU024,Delhi_Vasantkunj,Snacks,310,25
+SKU025,Delhi_Vasantkunj,Fresh Vegetables,64,35
+SKU026,Delhi_Vasantkunj,Grocery,176,35
+SKU027,Delhi_Vasantkunj,Personal Care,323,27
+SKU028,Delhi_Vasantkunj,Grocery,310,40
+SKU029,Delhi_Vasantkunj,Fresh Vegetables,370,42
+SKU030,Delhi_Vasantkunj,Fresh Vegetables,208,13
+SKU031,Delhi_Vasantkunj,Electronics,110,4
+SKU032,Delhi_Vasantkunj,Personal Care,86,28
+SKU033,Delhi_Vasantkunj,Fresh Vegetables,19,19
+SKU034,Delhi_Vasantkunj,Personal Care,79,17
+SKU035,Delhi_Vasantkunj,Grocery,67,23
+SKU036,Delhi_Vasantkunj,Fresh Vegetables,45,29
+SKU037,Delhi_Vasantkunj,Fresh Vegetables,286,8
+SKU038,Delhi_Vasantkunj,Grocery,44,43
+SKU039,Delhi_Vasantkunj,Personal Care,429,40
+SKU040,Delhi_Vasantkunj,Snacks,132,48
+SKU041,Delhi_Vasantkunj,Fresh Vegetables,365,41
+SKU042,Delhi_Vasantkunj,Fresh Vegetables,155,31
+SKU043,Delhi_Vasantkunj,Grocery,185,43
+SKU044,Delhi_Vasantkunj,Fresh Vegetables,184,36
+SKU045,Delhi_Vasantkunj,Personal Care,325,39
+SKU046,Delhi_Vasantkunj,Snacks,402,31
+SKU047,Delhi_Vasantkunj,Fresh Vegetables,324,4
+SKU048,Delhi_Vasantkunj,Fresh Vegetables,62,49
+SKU049,Delhi_Vasantkunj,Snacks,301,29
+SKU050,Delhi_Vasantkunj,Fresh Vegetables,439,34
+SKU001,Dwarka_Sec12,Grocery,493,35
+SKU002,Dwarka_Sec12,Personal Care,199,42
+SKU003,Dwarka_Sec12,Personal Care,138,3
+SKU004,Dwarka_Sec12,Snacks,133,19
+SKU005,Dwarka_Sec12,Fresh Vegetables,52,37
+SKU006,Dwarka_Sec12,Grocery,476,44
+SKU007,Dwarka_Sec12,Personal Care,191,41
+SKU008,Dwarka_Sec12,Snacks,368,14
+SKU009,Dwarka_Sec12,Electronics,211,40
+SKU010,Dwarka_Sec12,Personal Care,459,46
+SKU011,Dwarka_Sec12,Snacks,372,30
+SKU012,Dwarka_Sec12,Electronics,360,36
+SKU013,Dwarka_Sec12,Personal Care,252,4
+SKU014,Dwarka_Sec12,Grocery,178,46
+SKU015,Dwarka_Sec12,Electronics,483,10
+SKU016,Dwarka_Sec12,Fresh Vegetables,494,43
+SKU017,Dwarka_Sec12,Snacks,30,40
+SKU018,Dwarka_Sec12,Electronics,201,31
+SKU019,Dwarka_Sec12,Snacks,459,42
+SKU020,Dwarka_Sec12,Fresh Vegetables,27,4
+SKU021,Dwarka_Sec12,Electronics,365,15
+SKU022,Dwarka_Sec12,Snacks,408,36
+SKU023,Dwarka_Sec12,Personal Care,378,50
+SKU024,Dwarka_Sec12,Personal Care,36,36
+SKU025,Dwarka_Sec12,Personal Care,231,18
+SKU026,Dwarka_Sec12,Fresh Vegetables,170,46
+SKU027,Dwarka_Sec12,Fresh Vegetables,441,35
+SKU028,Dwarka_Sec12,Fresh Vegetables,26,7
+SKU029,Dwarka_Sec12,Personal Care,250,32
+SKU030,Dwarka_Sec12,Snacks,241,45
+SKU031,Dwarka_Sec12,Grocery,93,37
+SKU032,Dwarka_Sec12,Electronics,483,42
+SKU033,Dwarka_Sec12,Electronics,383,5
+SKU034,Dwarka_Sec12,Grocery,199,15
+SKU035,Dwarka_Sec12,Grocery,325,7
+SKU036,Dwarka_Sec12,Fresh Vegetables,369,32
+SKU037,Dwarka_Sec12,Grocery,422,29
+SKU038,Dwarka_Sec12,Fresh Vegetables,468,25
+SKU039,Dwarka_Sec12,Snacks,101,4
+SKU040,Dwarka_Sec12,Snacks,340,50
+SKU041,Dwarka_Sec12,Fresh Vegetables,264,9
+SKU042,Dwarka_Sec12,Electronics,500,18
+SKU043,Dwarka_Sec12,Snacks,486,1
+SKU044,Dwarka_Sec12,Personal Care,307,49
+SKU045,Dwarka_Sec12,Snacks,250,17
+SKU046,Dwarka_Sec12,Electronics,16,30
+SKU047,Dwarka_Sec12,Grocery,231,10
+SKU048,Dwarka_Sec12,Fresh Vegetables,312,10
+SKU049,Dwarka_Sec12,Electronics,78,28
+SKU050,Dwarka_Sec12,Electronics,355,24
+SKU001,South_Ex,Electronics,364,41
+SKU002,South_Ex,Snacks,494,22
+SKU003,South_Ex,Snacks,218,43
+SKU004,South_Ex,Personal Care,72,8
+SKU005,South_Ex,Fresh Vegetables,439,1
+SKU006,South_Ex,Grocery,455,23
+SKU007,South_Ex,Snacks,439,21
+SKU008,South_Ex,Electronics,187,16
+SKU009,South_Ex,Grocery,393,43
+SKU010,South_Ex,Electronics,20,31
+SKU011,South_Ex,Electronics,111,41
+SKU012,South_Ex,Personal Care,114,34
+SKU013,South_Ex,Snacks,90,43
+SKU014,South_Ex,Snacks,449,1
+SKU015,South_Ex,Snacks,344,24
+SKU016,South_Ex,Personal Care,377,14
+SKU017,South_Ex,Fresh Vegetables,190,40
+SKU018,South_Ex,Fresh Vegetables,156,11
+SKU019,South_Ex,Fresh Vegetables,295,20
+SKU020,South_Ex,Electronics,293,9
+SKU021,South_Ex,Fresh Vegetables,362,10
+SKU022,South_Ex,Personal Care,311,1
+SKU023,South_Ex,Grocery,390,31
+SKU024,South_Ex,Grocery,28,26
+SKU025,South_Ex,Fresh Vegetables,259,34
+SKU026,South_Ex,Grocery,362,8
+SKU027,South_Ex,Personal Care,230,34
+SKU028,South_Ex,Personal Care,424,16
+SKU029,South_Ex,Personal Care,118,38
+SKU030,South_Ex,Electronics,403,17
+SKU031,South_Ex,Fresh Vegetables,151,41
+SKU032,South_Ex,Electronics,491,50
+SKU033,South_Ex,Snacks,365,45
+SKU034,South_Ex,Grocery,78,36
+SKU035,South_Ex,Electronics,38,14
+SKU036,South_Ex,Personal Care,144,49
+SKU037,South_Ex,Grocery,454,24
+SKU038,South_Ex,Personal Care,459,34
+SKU039,South_Ex,Snacks,410,1
+SKU040,South_Ex,Electronics,454,40
+SKU041,South_Ex,Grocery,300,13
+SKU042,South_Ex,Grocery,290,42
+SKU043,South_Ex,Snacks,122,9
+SKU044,South_Ex,Fresh Vegetables,388,13
+SKU045,South_Ex,Electronics,62,37
+SKU046,South_Ex,Electronics,36,40
+SKU047,South_Ex,Snacks,81,13
+SKU048,South_Ex,Fresh Vegetables,166,18
+SKU049,South_Ex,Grocery,355,24
+SKU050,South_Ex,Personal Care,399,48
